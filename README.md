@@ -264,9 +264,9 @@ https://github.com/watcher041/flema75d/pull/64
 - JavaScriptを使用して、選択したカテゴリーへスクロールするように作成
 
 ## 商品出品・編集画面
-![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品出品ページ 1.png)
-![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品出品ページ 2.png)
-![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品出品ページ 3.png)
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品出品ページ_1.png)
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品出品ページ_2.png)
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品出品ページ_3.png)
 
 ## カテゴリー一覧表示
 #### スクロール
@@ -281,13 +281,13 @@ https://github.com/watcher041/flema75d/pull/64
 ![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品詳細ページいいねボタンクリック後.png)
 
 ## マイページいいね・出品・購入一覧
-#### 
+#### 出品一覧
 ![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ出品した商品一覧出品なし.png)
 ![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ出品した商品一覧出品あり.png)
-
-![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ購入した商品一覧ある時.png)
+#### 購入一覧
 ![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ購入した商品一覧ない時.png)
-
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ購入した商品一覧ある時.png)
+#### いいね一覧
 ![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページいいね一覧いいねなし.png)
 ![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページいいね一覧いいねあり.png)
 
