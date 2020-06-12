@@ -273,28 +273,45 @@ https://github.com/watcher041/flema75d/pull/64
 
 ## カテゴリー一覧表示
 #### スクロール
-![category scroll](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧上部説明.png)
+<img alt= "category scroll" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧上部説明.png" width= "500px">
+<img alt= "category scroll" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧スクロール説明.png" width= "500px">
+<img alt= "category link" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧リンク説明１.png" width= "500px">
+<!-- ![category scroll](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧上部説明.png)
 ![category scroll](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧スクロール説明.png)
 #### リンク
-![category link](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧リンク説明１.png)
+![category link](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧リンク説明１.png) -->
 
 ## お気に入り（いいね）機能
-![like click](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品詳細ページいいねボタン.png)
-![like click](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品詳細ページいいねボタンクリック後.png)
+<img alt= "like click" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品詳細ページいいねボタン.png" width= "500px">
+<img alt= "like click" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品詳細ページいいねボタンクリック後.png" width= "500px">
+<!-- ![like click](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品詳細ページいいねボタン.png)
+![like click](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品詳細ページいいねボタンクリック後.png) -->
 
 ## マイページいいね・出品・購入一覧
 #### 出品一覧
-![new list](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ出品した商品一覧出品なし.png)
-![new list](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ出品した商品一覧出品あり.png)
+<img alt= "new list" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ出品した商品一覧出品なし.png" width= "500px">
+<img alt= "new list" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ出品した商品一覧出品あり.png" width= "500px">
+<!-- ![new list](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ出品した商品一覧出品なし.png)
+![new list](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ出品した商品一覧出品あり.png) -->
+
 #### 購入一覧
-![buy list](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ購入した商品一覧ない時.png)
-![buy list](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ購入した商品一覧ある時.png)
+<img alt= "buy list" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ購入した商品一覧ない時.png" width= "500px">
+<img alt= "buy list" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ購入した商品一覧ある時.png" width= "500px">
+<!-- ![buy list](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ購入した商品一覧ない時.png)
+![buy list](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ購入した商品一覧ある時.png) -->
+
 #### いいね一覧
-![like list](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページいいね一覧いいねなし.png)
-![like list](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページいいね一覧いいねあり.png)
+<img alt= "like list" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページいいね一覧いいねなし.png" width= "500px">
+<img alt= "like list" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページいいね一覧いいねあり.png" width= "500px">
+<!-- ![like list](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページいいね一覧いいねなし.png)
+![like list](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページいいね一覧いいねあり.png) -->
 
 ## ユーザー評価機能
-![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品のユーザーへの評価リンク説明.png)
+<img alt= "user rank" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品のユーザーへの評価リンク説明.png" width= "500px">
+<img alt= "user rank" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/ユーザー評価詳細.png" width= "500px">
+<img alt= "user rank" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/ユーザー評価数確認説明.png" width= "500px">
+<img alt= "user rank" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ評価数確認.png" width= "500px">
+<!-- ![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品のユーザーへの評価リンク説明.png)
 ![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/ユーザー評価詳細.png)
 ![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/ユーザー評価数確認説明.png)
-![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ評価数確認.png)
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ評価数確認.png) -->
