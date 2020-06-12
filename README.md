@@ -264,9 +264,9 @@ https://github.com/watcher041/flema75d/pull/64
 - JavaScriptを使用して、選択したカテゴリーへスクロールするように作成
 
 ## 商品出品・編集画面
-![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品出品ページ_1.png)
-![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品出品ページ_2.png)
-![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品出品ページ_3.png)
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品出品ページ1.png)
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品出品ページ2.png)
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品出品ページ3.png)
 
 ## カテゴリー一覧表示
 #### スクロール
