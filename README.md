@@ -1,7 +1,7 @@
 # README
 
 ## ER図
-![ER figure](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/ER図.png)
+![ER figure](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/ER図.png)
 
 
 ## Users テーブル
