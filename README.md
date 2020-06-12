@@ -1,31 +1,31 @@
 # README
 
 ## 開発環境
-Ruby  2.5.1
-Ruby on Rails  5.2.3
-MySQL  mysql2 0.5.3
-Github
-AWS
-VS Code
+- Ruby  2.5.1
+- Ruby on Rails  5.2.3
+- MySQL  mysql2 0.5.3
+- Github
+- AWS
+- VS Code
 
 ## 開発担当
-・商品出品機能
-・商品編集機能
-・お気に入り（いいね）機能
-・ユーザー評価機能
-・カテゴリー一覧表示機能
-・マイページ 出品、購入、いいね一覧表示（非同期通信、ページネーション）
+- 商品出品機能
+- 商品編集機能
+- お気に入り（いいね）機能
+- ユーザー評価機能
+- カテゴリー一覧表示機能
+- マイページ 出品、購入、いいね一覧表示（非同期通信、ページネーション）
 
 ### 主な開発Branch
-出品機能
+- 出品機能
 https://github.com/watcher041/flema75d/pull/16
-編集機能
+- 編集機能
 https://github.com/watcher041/flema75d/pull/32
-お気に入り（いいね）機能
+- お気に入り（いいね）機能
 https://github.com/watcher041/flema75d/pull/51
-マイページページネーション非同期
+- マイページページネーション非同期
 https://github.com/watcher041/flema75d/pull/54
-ユーザー評価機能
+- ユーザー評価機能
 https://github.com/watcher041/flema75d/pull/64
 
 
@@ -202,6 +202,8 @@ https://github.com/watcher041/flema75d/pull/64
 
 - belongs_to :user, optional: true
 
+
+## 担当詳細
 ### 商品出品ページ
 ・概要
 　・商品の出品（新規作成）をするページ
