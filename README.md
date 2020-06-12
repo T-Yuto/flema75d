@@ -274,7 +274,6 @@ https://github.com/watcher041/flema75d/pull/64
 ![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧スクロール説明.png)
 #### リンク
 ![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧リンク説明１.png)
-![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧リンク説明2.png)
 
 ## お気に入り（いいね）機能
 ![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品詳細ページいいねボタン.png)
