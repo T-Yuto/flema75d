@@ -293,7 +293,6 @@ https://github.com/watcher041/flema75d/pull/64
 
 ## ユーザー評価機能
 ![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品のユーザーへの評価リンク説明.png)
-![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/評価画面.png)
-![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/ユーザー評価数確認説明.png)
 ![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/ユーザー評価詳細.png)
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/ユーザー評価数確認説明.png)
 ![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ評価数確認.png)
