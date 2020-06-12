@@ -9,12 +9,13 @@
 - VS Code
 
 ## 開発担当
-- 商品出品機能
-- 商品編集機能
-- お気に入り（いいね）機能
-- ユーザー評価機能
-- カテゴリー一覧表示機能
-- マイページ 出品、購入、いいね一覧表示（非同期通信、ページネーション）
+- DB設計(メンバー全員で)
+- 商品出品機能（サーバーサイド・フロントエンド）
+- 商品編集機能（サーバーサイド・フロントエンド）
+- お気に入り（いいね）機能（サーバーサイド・フロントエンド）
+- ユーザー評価機能（サーバーサイド・フロントエンド）
+- カテゴリー一覧ページ（フロントエンド）
+- マイページいいね、出品した商品、購入した商品一覧ページ（フロントエンド）
 
 ### 主な開発Branch
 - 出品機能
@@ -215,7 +216,7 @@ https://github.com/watcher041/flema75d/pull/64
 - 未ログイン時ユーザー登録画面へ遷移される
 - 画像が1枚から10枚まで登録できる
 
-### 商品編集ページ　リンク
+### 商品編集ページ
 #### 概要
 - 出品した商品を編集できる機能
 #### 担当内容（フロントエンド）
@@ -262,3 +263,37 @@ https://github.com/watcher041/flema75d/pull/64
 - HTML、CSS、JavaScriptを使用して作成
 - JavaScriptを使用して、選択したカテゴリーへスクロールするように作成
 
+## 商品出品・編集画面
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品出品ページ 1.png)
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品出品ページ 2.png)
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品出品ページ 3.png)
+
+## カテゴリー一覧表示
+#### スクロール
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧上部説明.png)
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧スクロール説明.png)
+#### リンク
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧リンク説明１.png)
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧リンク説明2.png)
+
+## お気に入り（いいね）機能
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品詳細ページいいねボタン.png)
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品詳細ページいいねボタンクリック後.png)
+
+## マイページいいね・出品・購入一覧
+#### 
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ出品した商品一覧出品なし.png)
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ出品した商品一覧出品あり.png)
+
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ購入した商品一覧ある時.png)
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ購入した商品一覧ない時.png)
+
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページいいね一覧いいねなし.png)
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページいいね一覧いいねあり.png)
+
+## ユーザー評価機能
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品のユーザーへの評価リンク説明.png)
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/評価画面.png)
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/ユーザー評価数確認説明.png)
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/ユーザー評価詳細.png)
+![item new](https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ評価数確認.png)
