@@ -346,3 +346,4 @@
 <img alt= "category scroll" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧上部説明.png" width= "500px">
 <img alt= "category scroll" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧スクロール説明.png" width= "500px">
 <img alt= "category link" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧リンク説明１.png" width= "500px">
+<img alt= "user rank" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/categoryscroll.gif" width= "500px">
