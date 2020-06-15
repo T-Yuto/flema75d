@@ -227,6 +227,7 @@
 - 出品時の モデル、コントローラー、ルーティング の作成
 - 未ログイン時ユーザー登録画面へ遷移される
 - 画像が 1 枚から 10 枚まで登録できる
+- 必須項目が空だと登録できないようなvalidationの設定
 
 ### 商品編集ページ
 
@@ -260,7 +261,7 @@
 
 #### 担当内容（サーバーサイド）
 
-- お気に入りのモデル、コントローラー、ルーティングの作成
+- お気に入り機能のモデル、コントローラー、ルーティングの作成
 
 #### 概要
 
@@ -272,7 +273,7 @@
 
 #### 担当内容（サーバーサイド）
 
-- gem “kaminari” を使用し、ページネーション機能を実装　 8 件ずつ表示させる
+- gem “kaminari” を使用し、ページネーション機能を実装 8 件ずつ表示させる
 
 ### ユーザー評価機能
 
@@ -309,14 +310,6 @@
 <img alt= "item new" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品出品ページ2.png" width= "500px">
 <img alt= "item new" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品出品ページ3.png" width= "500px">
 
-## カテゴリー一覧表示
-
-#### スクロール
-
-<img alt= "category scroll" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧上部説明.png" width= "500px">
-<img alt= "category scroll" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧スクロール説明.png" width= "500px">
-<img alt= "category link" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧リンク説明１.png" width= "500px">
-
 ## お気に入り（いいね）機能
 
 <img alt= "like click" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/商品詳細ページいいねボタン.png" width= "500px">
@@ -345,3 +338,11 @@
 <img alt= "user rank" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/ユーザー評価詳細.png" width= "500px">
 <img alt= "user rank" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/ユーザー評価数確認説明.png" width= "500px">
 <img alt= "user rank" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/マイページ評価数確認.png" width= "500px">
+
+## カテゴリー一覧表示
+
+#### スクロール
+
+<img alt= "category scroll" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧上部説明.png" width= "500px">
+<img alt= "category scroll" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧スクロール説明.png" width= "500px">
+<img alt= "category link" src= "https://raw.githubusercontent.com/T-Yuto/flema75d/Readme/Readme/カテゴリー一覧リンク説明１.png" width= "500px">
