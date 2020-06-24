@@ -2,6 +2,10 @@
 - link 
 - http://54.95.101.35
 
+- ID/PASS
+- ID: flema75d
+- Pass: flema75d
+
 - テスト用アカウント等
 
 - 購入者用
